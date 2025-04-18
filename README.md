@@ -1,5 +1,5 @@
-# TimeTalk 제작툴 - fast agent 
- - fast agent를 이용해서 안드로이드 앱 개발 
+# Google Agent Tool Kit
+ - Google Adk Chat Sample
 
 ### setup 과정
 
